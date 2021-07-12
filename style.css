@@ -44,7 +44,7 @@ header{
     background-color: #dddddd;
     text-align: center;
     padding: 50px 10px;
-    margin-top: 60px;
+    margin-bottom: 20px;
 }
 .section1 .content {
     float: left;
@@ -63,6 +63,7 @@ header{
     font-size: 30px;
     color: #ffffff;
     padding: 60px 15px;
+    margin-right: 10px;
 }
 
 .section2 {
